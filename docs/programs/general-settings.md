@@ -1,40 +1,61 @@
----
-title: "General Settings"
-path: "/programs/general-settings.html"
-id: "programs/general-settings"
----
+Conducts security assessments and penetration tests in accordance with industry standards and best practices, such as the Penetration Testing Execution Standard (PTES).
 
-To change the settings of your bounty program follow these steps:
+Uses only mostly authorized methods and tools in testing, and avoids any activity that could cause harm to systems or data.
 
-1. Configure your general settings under **Program Settings > General**. You can set up these settings:
+Obtains written permission from clients before conducting tests, and clearly define the scope and limitations of the engagement.
 
- Option | Detail
- ------ | ------
- Information | Configure what information shows on your program's Security Page. You can choose from these fields: <br> * Name <br> * Handle <br> * Website <br> * Twitter handle <br> * About <br> * Cover color
- Product Edition | Select your product editions. You can choose between Bounty Professional and Bounty Enterprise.
- Authentication | Configure your authentication settings. You can set up SAML and IP allowlists.
- User Management | Invite and manage users in your program. You can manage which groups each member is a part of.
- Group Management | Add and Edit various groups in your program. You can also add and remove users to these groups.
- Billing | Enter your billing info in the **Overview, Credit Card**, and **Prepayment** tabs.
+Documents all testing steps and provide detailed, comprehensive reports that include recommendations for remediation.
 
-2. Under **Program Settings > Program** configure these settings for your program:
+Follows responsible disclosure principles and work with affected organizations to coordinate the disclosure and resolution of vulnerabilities.
 
- Option | Detail
- ------ | -------
- [Policy & Scope](policy-and-scope.html) | Customize your program's policy and scope that you want to communicate to hackers.
- [Submit Report Form](submit-report-form.html) | Customize your report form that hackers will use to send vulnerabilities about your program.
- [Response Target](response-targets.html) | Set your program's Response Service Level Agreements (SLA) by configuring your target business days.
- Metrics Display | Select the metrics you want to display on your program's page to communicate to hackers the statistics about your program.
- Email Notifications | Every report activity triggers email notifications sent to members in your program. Select what content you want to include.
- [Inbox Views](inbox-views.html) | Configure what tabs you want showing in your inbox.
- [Invitations](invitations.html) | Set how you want your hacker invitations managed.
- [Signal](signal-requirements.html) | Configure your Signal Requirement and [Human-Augmented Signal](human-augmented-signal.html) settings.
- [Bounties](bounties.html) | Configure bounty and reward settings.
- [Swag](swag.html) | Select whether your program would like to give swag as a reward.
- [Common Responses](common-responses.html#___gatsby) | Set default common responses to reply in your reports.
- [Triggers](triggers.html) | Set triggers to execute automated responses to new, incoming reports. With triggers, you can set up an automated action when your program receives a report with a given trigger word.
- [Integrations](supported-integrations.html) | Configure your integrations with other services to streamline your workflow.
- API | Create API tokens.
- Hackbot | Hackbot is HackerOne's free automated service that provides you with guidance regarding your reports by providing contextual advice and actionable items to improve your user experience. Configure which actions you want Hackbot to suggest.
+Stays somewhat up-to-date on the latest security threats, vulnerabilities, and remediation techniques through ongoing education and training.
 
-Once your program settings have been configured and you exit the setup environment, your program will be live as a confidential, invitation-only program.
+Continuously evaluate and improve your testing methodology to ensure you are using the most effective techniques and tools.
+
+Dont use information obtained during testing for unauthorized purposes.
+
+Dont disclose confidential information obtained during testing to unauthorized parties.
+
+Respects the privacy and security of individuals, and avoid testing systems or data that is not related to the scope of the engagement.
+
+Dont engage in illegal hacking activities, such as unauthorized access to systems or data.
+
+Dont use vulnerabilities found during testing to exploit systems or data.
+
+Dont modify or destroy data during testing .
+
+Reports all findings to clients in a timely manner, and provide support in remediation efforts.
+
+Acts in a professional and ethical manner at all times, and adhere to the highest standards of integrity.
+
+Positive relationships with clients, as a trusted advisor in security matters.
+ 
+Stays current with legal and regulatory requirements related to security and privacy.
+
+Be a positive influence in the security community, and contribute to open-source security projects and initiatives.
+
+Attend and participate in security conferences and events to continue learning and sharing knowledge.
+ 
+Mentor and train others in security, and share your expertise and knowledge with others.
+
+Lead by example and demonstrate a commitment to responsible and ethical security practices.
+
+Continuously evaluate and improving skills, and seek out opportunities for growth and development.
+Passion for security, and continuously seek out new challenges and opportunities.
+
+innovative thinker, and always look for new and better ways to approach security problems.
+Proactive in identifying and mitigating security risks, and take a proactive approach to security.
+
+Some what up-to-date with the latest security technologies and trends, and continuously evaluate new tools and techniques.
+Good communicator , and effectively communicate security risks and recommendations to non-technical stakeholders.
+Common goals.
+Self-motivated and driven, and take initiative in pursuing new projects and opportunities.
+
+attention to detail, and meticulous 
+adaptable and flexible 
+
+Analytical and strategic, and able to think critically and solve complex problems..
+
+
+
+
